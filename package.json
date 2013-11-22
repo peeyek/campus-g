@@ -1,0 +1,19 @@
+{
+  "name": "Campus G",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peeyek/campus-g.git"
+  },
+  "author": "Bayu Aldi Yansyah <bayualdiyansyah@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peeyek/campus-g/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-connect": "~0.5.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-recess": "~0.4.0"
+  }
+}
