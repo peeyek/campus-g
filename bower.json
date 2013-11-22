@@ -1,0 +1,13 @@
+{
+  "name": "Campus G",
+  "version": "0.0.0",
+  "homepage": "https://github.com/peeyek/campus-g",
+  "authors": [
+    "Bayu Aldi Yansyah <Bayualdiyansyah@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "bootstrap": "~3.0.1"
+  }
+}
